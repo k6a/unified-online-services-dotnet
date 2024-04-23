@@ -1,0 +1,6 @@
+@Uos.ServiceApiConsumer_HostAddress = http://localhost:5074
+
+GET {{Uos.ServiceApiConsumer_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
